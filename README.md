@@ -1,11 +1,11 @@
 # BOZ213v01a02
 ADAPTBOOK AI
 
-Çoklu Yapay Zekâ Destekli Kişiselleştirilmiş ve Uyarlanabilir Dijital Ders Kitabı Sistemi
+Çoklu Yapay Zeka Destekli Kişiselleştirilmiş ve Uyarlanabilir Dijital Ders Kitabı Sistemi
 
 Proje Hakkında
 
-ADAPTBOOK AI, öğrencilerin bireysel öğrenme ihtiyaçlarına, bilgi düzeylerine ve görsel-sözel materyaller karşısındaki performanslarına göre dijital ders kitaplarını kişiselleştirmeyi amaçlayan çoklu yapay zekâ destekli bir eğitim teknolojisi projesidir.
+ADAPTBOOK AI, öğrencilerin bireysel öğrenme ihtiyaçlarına, bilgi düzeylerine ve görsel-sözel materyaller karşısındaki performanslarına göre dijital ders kitaplarını kişiselleştirmeyi amaçlayan çoklu yapay zeka destekli bir eğitim teknolojisi projesidir.
 
 Geleneksel dijital ders kitapları genellikle bütün öğrencilere aynı anlatım biçimini ve aynı zorluk seviyesini sunar. Ancak her öğrencinin bilgi düzeyi ve öğrenme performansı farklıdır. ADAPTBOOK AI, bu farklılıkları dikkate alarak öğrenciye özel ve sürekli güncellenebilen bir öğrenme deneyimi oluşturmayı hedefler.
 
@@ -27,7 +27,7 @@ Bu iki değerlendirmeden elde edilen sonuçlar birleştirilerek konuya özgü bi
 
 Sistem, öğrencinin konu sonundaki sorulara verdiği yanıtları da analiz eder. Eksik öğrenmeler için ek açıklamalar, farklı örnekler ve tekrar etkinlikleri sunar. Öğrenci yeni bir konuya geçtiğinde değerlendirme ve kişiselleştirme süreci yeniden başlar.
 
-Çoklu Yapay Zekâ Sistemi
+Çoklu Yapay Zeka Sistemi
 
 ADAPTBOOK AI içerisinde farklı görevleri yerine getiren yapay zekâ bileşenlerinin merkezi bir koordinasyon yapısıyla çalışması planlanmaktadır.
 
