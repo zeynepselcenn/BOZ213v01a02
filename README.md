@@ -56,3 +56,10 @@ Beklenen Sonuç
 Proje sonunda öğrencilerin bireysel ihtiyaçlarına göre içerik sunabilen, öğrenci performansını takip eden ve öğrenme sürecini sürekli uyarlayan web tabanlı bir dijital ders kitabı prototipi geliştirilmesi hedeflenmektedir.
 
 ADAPTBOOK AI'ın farklı derslere ve eğitim seviyelerine uyarlanabilecek bir eğitim teknolojisi altyapısı sunması amaçlanmaktadır.
+
+
+## Proje Tanıtım Videosu
+
+ADAPTBOOK AI projesinin tanıtım videosuna aşağıdaki bağlantıdan ulaşabilirsiniz.
+
+[ADAPTBOOK AI - Proje Tanıtım Videosu](https://www.youtube.com/watch?v=-bbcX0c4Pk8&t=4s)
