@@ -5,58 +5,29 @@ ADAPTBOOK AI
 
 Proje Hakkında
 
-ADAPTBOOK AI, öğrencilerin bireysel öğrenme ihtiyaçlarına, bilgi düzeylerine ve görsel-sözel materyaller karşısındaki performanslarına göre dijital ders kitaplarını kişiselleştirmeyi amaçlayan çoklu yapay zeka destekli bir eğitim teknolojisi projesidir.
+ADAPTBOOK AI, öğrencilerin bireysel öğrenme ihtiyaçlarını, bilgi düzeylerini ve görsel-sözel materyaller karşısındaki performanslarını dikkate alarak dijital ders kitaplarını kişiselleştirmeyi amaçlayan yapay zeka destekli bir eğitim teknolojisi projesidir.
 
-Geleneksel dijital ders kitapları genellikle bütün öğrencilere aynı anlatım biçimini ve aynı zorluk seviyesini sunar. Ancak her öğrencinin bilgi düzeyi ve öğrenme performansı farklıdır. ADAPTBOOK AI, bu farklılıkları dikkate alarak öğrenciye özel ve sürekli güncellenebilen bir öğrenme deneyimi oluşturmayı hedefler.
+Geleneksel dijital ders kitapları genellikle bütün öğrencilere aynı anlatım biçimini ve zorluk seviyesini sunar. ADAPTBOOK AI ise her öğrencinin performansını analiz ederek seçtiği konuya özel bir öğrenme deneyimi oluşturmayı hedefler.
 
-Proje, TÜBİTAK 2209-A Üniversite Öğrencileri Araştırma Projeleri Destekleme Programı kapsamında hazırlanmaktadır.
+Sistem Nasıl Çalışır?
+
+Ders kitapları proje geliştiricisi tarafından önceden sisteme yüklenir ve konu başlıklarına göre düzenlenir. Öğrenci bir kitap ve konu seçtiğinde iki aşamalı değerlendirme süreci başlar:
+
+Öğrencinin görsel ve sözel materyaller karşısındaki anlama ve hatırlama performansı ölçülür.
+
+Seçilen konu hakkındaki ön bilgi ve yeterlilik düzeyi belirlenir.
+
+Bu değerlendirmeler sonucunda öğrenciye özel bir performans profili oluşturulur. Çoklu yapay zekâ bileşenleri, bu profile göre konu anlatımını, görsel destekleri, örnekleri ve içerik zorluk seviyesini uyarlar.
+
+Sistem ayrıca öğrencinin konu sonu cevaplarını analiz ederek eksik olduğu alanlarda ek açıklamalar, farklı örnekler ve tekrar etkinlikleri sunar. Yeni bir konuya geçildiğinde kişiselleştirme süreci yeniden başlar.
 
 Projenin Amacı
 
-Öğrencilerin performans verilerini analiz ederek dijital ders kitabı içeriklerini kişiselleştiren bir sistem geliştirmek ve bu sistemin akademik başarı ile öğrenme kalıcılığı üzerindeki etkisini incelemektir.
-
-Nasıl Çalışır?
-
-Sistemin çalışma süreci proje geliştiricisi tarafından dijital ders kitaplarının önceden sisteme yüklenmesiyle başlar. Kitaplar ders, ünite ve konu başlıklarına göre düzenlenir.
-
-Öğrenci sisteme giriş yaparak mevcut kitaplardan birini seçer ve çalışmak istediği konuya tıklar. Ardından iki aşamalı bir değerlendirme süreci başlar.
-
-İlk aşamada öğrencinin görsel ve sözel materyaller karşısındaki anlama ve hatırlama performansı karşılaştırılır. İkinci aşamada ise öğrencinin seçtiği konu hakkındaki ön bilgi düzeyi ölçülür.
-
-Bu iki değerlendirmeden elde edilen sonuçlar birleştirilerek konuya özgü bir öğrenci performans profili oluşturulur. Çoklu yapay zekâ bileşenleri, bu profile göre konu anlatımını, görsel destekleri, örnekleri ve zorluk seviyesini öğrenciye uygun hâle getirir.
-
-Sistem, öğrencinin konu sonundaki sorulara verdiği yanıtları da analiz eder. Eksik öğrenmeler için ek açıklamalar, farklı örnekler ve tekrar etkinlikleri sunar. Öğrenci yeni bir konuya geçtiğinde değerlendirme ve kişiselleştirme süreci yeniden başlar.
-
-Çoklu Yapay Zeka Sistemi
-
-ADAPTBOOK AI içerisinde farklı görevleri yerine getiren yapay zekâ bileşenlerinin merkezi bir koordinasyon yapısıyla çalışması planlanmaktadır.
-
-Bu bileşenler;
-
-Ders kitabı ve konu içeriklerini analiz eder.
-
-Öğrencinin değerlendirme sonuçlarını yorumlar.
-
-Öğrenme içeriklerini öğrenci performansına göre uyarlar.
-
-Konu sonu değerlendirmeleri ve kişiselleştirilmiş geri bildirimler oluşturur.
-
-Kullanılması Planlanan Teknolojiler
-
-Python, Flask, HTML, CSS, JavaScript, veritabanı teknolojileri ve yapay zekâ modelleri/API servislerinin kullanılması planlanmaktadır.
+Öğrencilere kendi ihtiyaçlarına uygun, dinamik ve adaptif bir öğrenme ortamı sunmak; geliştirilecek sistemin akademik başarı ve öğrenme kalıcılığı üzerindeki etkisini incelemektir.
 
 Araştırma Süreci
 
-Geliştirilecek prototipin eğitimsel etkisini incelemek amacıyla yaklaşık 40-50 öğrencinin katılımıyla deney ve kontrol gruplu bir uygulama yapılması planlanmaktadır.
-
-Deney grubu kişiselleştirilmiş dijital ders kitabını, kontrol grubu ise standart dijital ders kitabı içeriğini kullanacaktır. Ön test, son test ve mümkün olması hâlinde gecikmeli test sonuçları karşılaştırılarak sistemin akademik başarı ve öğrenme kalıcılığı üzerindeki etkisi değerlendirilecektir.
-
-Beklenen Sonuç
-
-Proje sonunda öğrencilerin bireysel ihtiyaçlarına göre içerik sunabilen, öğrenci performansını takip eden ve öğrenme sürecini sürekli uyarlayan web tabanlı bir dijital ders kitabı prototipi geliştirilmesi hedeflenmektedir.
-
-ADAPTBOOK AI'ın farklı derslere ve eğitim seviyelerine uyarlanabilecek bir eğitim teknolojisi altyapısı sunması amaçlanmaktadır.
-
+Prototipin eğitimsel etkisini değerlendirmek amacıyla yaklaşık 40-50 öğrenciyle deney ve kontrol gruplu bir uygulama yapılması planlanmaktadır. Ön test, son test ve mümkün olması hâlinde gecikmeli test sonuçları karşılaştırılarak akademik başarı ve öğrenme kalıcılığı incelenecektir.
 
 ## Proje Tanıtım Videosu
 
